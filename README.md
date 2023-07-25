@@ -1,2 +1,2 @@
 # N3uralKi11ers
-For N3uralKi11ers projectc
+Здесь будет лежать все важное для реализации проекта
